@@ -6,7 +6,7 @@
 #######                                                                 ######
 ##############################################################################
 
-#By: Iván Cristóbal Másmela Castro
+#By: Iván Cristóbal Másmela Castro (Estudiante)
 #icmasmelac@uqvirtual.edu.co
 
 print("Introducción a R. (Rstudio)")
