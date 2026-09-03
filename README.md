@@ -1,2 +1,7 @@
 # ECONOMETRIA2
-Curso de econometria 2
+##Universidad del Quindio
+
+**Economía**
+
+_Iván Cristóbal Másmela Castro_
+
