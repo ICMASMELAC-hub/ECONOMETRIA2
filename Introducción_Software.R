@@ -6,8 +6,8 @@
 #######                                                                 ######
 ##############################################################################
 
-#By: Nicolás García Peñaloza
-#ngarcia1@uniquindio.edu.co
+#By: Iván Cristóbal Másmela Castro
+#icmasmelac@uqvirtual.edu.co
 
 print("Introducción a R. (Rstudio)")
 browseURL(url = "https://cran.r-project.org/doc/FAQ/R-FAQ.html", browser = getOption("browser"))
