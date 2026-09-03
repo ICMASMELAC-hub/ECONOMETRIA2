@@ -1,5 +1,5 @@
 # ECONOMETRIA2
-##Universidad del Quindio
+#Universidad del Quindio
 
 **Economía**
 
