@@ -1,15 +1,15 @@
-##########################################################
-#                                                        #
-####              UNIVERSIDAD DEL QUINDIO             ####
-#                       ECONONOMIA 			                 #
-#                                                        #
-#                     ECONOMETRIA  II                    #
-####                                                  ####
-##############                              ##############
+#######################################################
+#                                                     #
+####              UNIVERSIDAD DEL QUINDIO          ####
+#                       ECONONOMIA 			              #
+#                                                     #
+#                     ECONOMETRIA  II                 #
+####                                               ####
+##############                              ###########
              #         ACTIVIDAD 1          #
-##############		                          ##############
-#							                                           #
-##############  DESCRIPTIVOS_ESTADISTICOS   ##############
+##############		                          ###########
+#							                                        #
+##############  DESCRIPTIVOS_ESTADISTICOS   ###########
 
 
 # By: LIZED CRISTINA BLANDON PALADINES - lcblandonp@uqvirtual.edu.co
