@@ -43,6 +43,13 @@ head(DATA_INGRESOS)
 str(DATA_INGRESOS)
 skimr::skim(DATA_INGRESOS$P6040)
 
+# Breve limpieza de los datos
+for (N in names(DATA_INGRESOS)) {
+  if (class(DATA_INGRESOS[[N]]) == "integer") {
+    DATA_INGRESOS[[N]] = as.numeric(DATA_INGRESOS[[N]])
+  }
+}
+
 # Tabla de frecuencias (referencia rapida de la distribucion por edades)
 table(DATA_INGRESOS$P6040 , useNA = "always")
 
