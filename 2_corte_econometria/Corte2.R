@@ -109,3 +109,5 @@ reg_88 = lm( lwage ~ exper + exper2 + tenure + tenure2 , data = DATA_PANEL , sub
 
 summary(reg_88)
 
+
+
