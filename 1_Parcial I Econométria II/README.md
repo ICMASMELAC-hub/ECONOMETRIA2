@@ -2,6 +2,6 @@
 
 #Universidad del Quindio
 
-#PARCIAL I ECONOMÉTRIA II
+#PARCIAL_I_ECONOMÉTRIA II
 
 _Iván Cristóbal Másmela Castro_
