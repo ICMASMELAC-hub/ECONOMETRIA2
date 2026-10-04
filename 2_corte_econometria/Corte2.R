@@ -192,3 +192,4 @@ DATOS_TRANS = DATA_PANEL |>
 str(DATOS_TRANS)
 
 table(DATOS_TRANS$BLACK_lag , DATOS_TRANS$black , dnn = c ("t-1" , "t"))
+
