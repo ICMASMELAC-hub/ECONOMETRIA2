@@ -2,6 +2,6 @@
 
 #Universidad del Quindio
 
-#CORTE_II_ECONOMÉTRIA_II
+#ACTIVIDAD_ESTIMACION_SOBRE_DATOS_PANEL
 
 _Iván Cristóbal Másmela Castro_
