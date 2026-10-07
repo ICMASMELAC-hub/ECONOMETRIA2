@@ -37,7 +37,7 @@ DATA_PANEL = haven::read_dta("C:/Users/LENOVO/Documents/Eco-UQ/Semestre/Economet
 # NUEVO MODELO (salario explicado por jornada, afiliación, estado civil
 # y localización):
 #
-# lwage_it = b1 hours_it + b2 union_it + b3 msp_it + b4 not_smsa_it
+# lwage_it ~ b1 hours_it + b2 union_it + b3 msp_it + b4 not_smsa_it
 #          + b5 c_city_it + (b6 educ_i + b7 black_i) + a_i + u_it
 #
 # Categoría base de localización: vivir en zona suburbana de un área
