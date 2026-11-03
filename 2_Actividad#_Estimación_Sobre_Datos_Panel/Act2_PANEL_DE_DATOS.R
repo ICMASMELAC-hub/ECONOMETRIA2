@@ -24,7 +24,7 @@ library('plm')
 library('modelsummary') 
 
 ## Base de datos
-DATA_PANEL = haven::read_dta("C:/Users/LENOVO/Documents/Eco-UQ/Semestre/Econometria II/nls_panel.dta") |> data.frame()
+DATA_PANEL = haven::read_dta("C:/Users/LENOVO/Documents/Eco-UQ/Semestre/Econometria II/Bases/nls_panel.dta") |> data.frame()
 
 
 ########################################################################
